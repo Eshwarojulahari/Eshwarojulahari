@@ -77,9 +77,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
 
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Eshwarojulahari&icon=0&color=6&" alt="Profile Views" />
-  </a>
-</div>
+
